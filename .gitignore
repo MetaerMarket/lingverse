@@ -49,6 +49,7 @@ dump.rdb
 # mix phx.gen.cert self-signed certs for dev
 /apps/block_scout_web/priv/cert
 /apps/block_scout_web/assets/package-lock.json
+
 /docker-compose/services/blockscout-db-data
 /docker-compose/services/stats-db-data
 /docker-compose/services/redis-data
